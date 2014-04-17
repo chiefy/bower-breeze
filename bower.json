@@ -12,6 +12,7 @@
     "restful",
     "model"
   ],
+  "main": "breeze.debug.js",
   "authors": [
     "Jay Traband",
     "IdeaBlade"
